@@ -8,7 +8,7 @@
 </div>
 
 ###
-<img src="https://media.tenor.com/2En2Ex127KYAAAAd/john-pork-pork.gif" alt="Computer man" style="width:48px;height:48px;">
+<img src="https://media.tenor.com/2En2Ex127KYAAAAd/john-pork-pork.gif">
 <img align="right" height="150" src="https://media.tenor.com/2En2Ex127KYAAAAd/john-pork-pork.gif"  />
 
 ###
