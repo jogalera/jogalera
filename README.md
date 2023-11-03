@@ -8,7 +8,7 @@
 </div>
 
 ###
-<div align="center"> <a href=""><img src="https://media.tenor.com/2En2Ex127KYAAAAd/john-pork-pork.gif" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="./.github/john-pork-pork.gif" alt='image' width='800'/></a> </div>
 
 
 ###
